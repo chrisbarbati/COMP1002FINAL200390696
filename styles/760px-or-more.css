@@ -1,0 +1,14 @@
+@media screen and (max-width: 760px){
+    #main-content{
+        flex-direction: column;
+    }
+    main{
+        width: auto;
+    }
+    aside{
+        width: auto;
+    }
+    #main-footer-content{
+        width: 60%;
+    }
+}
